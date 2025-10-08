@@ -1,0 +1,46 @@
+{
+  "meditations": [
+    {
+      "id": 1,
+      "name": "Respiración Consciente",
+      "duration": 3,
+      "audioFileName": "calma-total.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Calma Interior",
+      "duration": 5,
+      "audioFileName": "inner-peace.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Paz Profunda",
+      "duration": 10,
+      "audioFileName": "noche-tranquila.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Calma Total",
+      "duration": 3,
+      "audioFileName": "calma-total.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Claridad interior",
+      "duration": 3,
+      "audioFileName": "calma-total.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Respirar y soltar",
+      "duration": 5,
+      "audioFileName": "paz-profunda.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Noche tranquila",
+      "duration": 10,
+      "audioFileName": "noche-tranquila.mp3"
+    }
+  ]
+}

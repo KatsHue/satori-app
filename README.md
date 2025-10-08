@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 align="center">satori - app de meditación</h2>
+<h2 align="center">satori 悟り - app de meditación</h2>
 
 Satori es una aplicación minimalista de meditación desarrollada con **React + Vite + TailwindCSS + Framer Motion**.  
 Incluye una lista de meditaciones guiadas, un temporizador circular y un fondo animado relajante.
